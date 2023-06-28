@@ -1,2 +1,2 @@
-# -Reinforcement-Learning-RL--based-Industrial-Augmented-Reality-AR-
-Revolutionizing Training and Maintenance of NanoDrop Spectrophotometer using Reinforcement Learning-based Industrial Augmented Reality 
+# Augmented Reality-Assisted Deep Reinforcement Learning-Based Model towards Industrial Training and Maintenance for NanoDrop Spectrophotometer
+
